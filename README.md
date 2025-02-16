@@ -1,2 +1,3 @@
-# Management
-Hospital management website for first time
+# full stack web developer from India
+• passionate web developer
+• learning data analytics
